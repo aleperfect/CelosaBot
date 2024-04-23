@@ -28,9 +28,9 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Aleizn
-  ${tradutor.texto1[2]} +51992621601
-  ${tradutor.texto1[3]} https://www.instagram.com/ale.izn_20/
+  ${tradutor.texto1[1]} 𝐂𝐞𝐥𝐨𝐬𝐚
+  ${tradutor.texto1[2]} 𝐂𝐞𝐥𝐨𝐬𝐚
+  ${tradutor.texto1[3]} 𝐂𝐞𝐥𝐨𝐬𝐚
 
   ${tradutor.texto1[4]} ${rtime}
   ${tradutor.texto1[5]} ${uptime}
